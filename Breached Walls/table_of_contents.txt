@@ -1,3 +1,10 @@
 List of maps:
 
-breached walls view.png - initial positions (29th of December)
+breached walls view.png - initial positions (28th of December)
+
+subfolder: 29th
+- files for 29th of December
+
+subfolder: 30th
+- files for 30th of December
+
